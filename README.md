@@ -15,7 +15,5 @@ Run it from command line by typing "node index.js". You will be prompted
 
 When cloning the repository, you will also get the test files
 
-
-
-![portfolio](https://github.com/esgarsad/my-portfolio/blob/main/assets/images/portfolio.jpg?raw=true)
+![teamprofilegen](https://github.com/esgarsad/team-profilegen/blob/develop/src/images/teamprofile.jpg)
 
