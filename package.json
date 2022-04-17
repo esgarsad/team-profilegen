@@ -1,0 +1,28 @@
+{
+  "name": "team-profilegen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esgarsad/team-profilegen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esgarsad/team-profilegen/issues"
+  },
+  "homepage": "https://github.com/esgarsad/team-profilegen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
