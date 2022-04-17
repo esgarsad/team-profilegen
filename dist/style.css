@@ -29,7 +29,8 @@ body {
 h1,
 h2,
 h3,
-h4 {
+h4
+ {
   font-weight: 500;
   margin: 5px 0;
   color: var(--dark);
@@ -55,7 +56,7 @@ h4 {
 
 a {
   text-decoration: none;
-  font-size: 1.5rem;
+font-size: 1.5rem;
 }
 
 header {
@@ -68,9 +69,9 @@ header {
 
 /* CARDS */
 .card {
-  margin: 20px 0 20px 0;
-  border: 3px solid gray;
-  border-radius: var(--border-radius);
+  margin: 30px 0 20px 0;
+  border: 3px solid grey;
+  border-radius: var(--secondary);
 }
 
 .card-header {
@@ -83,4 +84,14 @@ header {
 .card-body {
   padding: 2.5%;
 }
+
+
+.page-title {
+  text-align: center;
+  width: 100%;
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+
 
