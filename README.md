@@ -6,9 +6,9 @@ Team profile generator will help your organization to sort employees and functio
 
 clone this repository, then you will need to install inquirer from npm.
 
-## Installation
+## Use
 
-Run it from command line by typing "node index.js". You will be prompted
+Run it from command line by typing "node index.js". You will be prompted withe the information to create your team profile
 
 
 ## Notes about Team profile generator
